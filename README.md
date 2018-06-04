@@ -1,5 +1,5 @@
 # Pacman
-Enhanced Pacman in Java
+Enhanced Pacman in ~4000 lines of Java
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/18060132/40946950-2ccc57ac-682e-11e8-92ab-3e37109c6e01.png" width="350" height="300">
